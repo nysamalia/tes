@@ -9,3 +9,5 @@ def bqf (a,b,c):
 # a= f(0)
 # print(a)
 print(bqf(2,3,-5)(0))
+
+# tes commit
